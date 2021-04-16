@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently studying Biomolecular Sciences and Technology 🦠🧫🔬 @ University of Trento.
+
+
 <!--
 **annalisaxamin/annalisaxamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
