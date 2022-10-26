@@ -1,4 +1,13 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/annalisa-xamin/">
+  <img align="left" alt="Annalisa Xamin's Linkedin" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
+</a>
+<a href="https://github.com/annalisaxamin/">
+  <img align="left" alt="Annalisa Xamin's Github" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-512.png" />
+</a>
+
+<br/>
+<br/>
 
 I'm currently studying Biomolecular Sciences and Technology 🦠🧫🔬 @ University of Trento.
 
