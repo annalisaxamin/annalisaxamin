@@ -4,6 +4,10 @@ I'm currently studying Biomolecular Sciences and Technology 🦠🧫🔬 @ Unive
 
 2021 Thesis Intern @ [CIBIO- Department of Cellular, Computational and Integrative Biology ](https://www.cibio.unitn.it/1096/rna-regulatory-networks)
 
+
+
+[![wakatime](https://wakatime.com/badge/user/a33f68b7-d001-4038-8492-128bf538dfd9.svg)](.)
+
 <!--
 **annalisaxamin/annalisaxamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
