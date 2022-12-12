@@ -14,6 +14,7 @@ I'm currently studying Quantitative and Computational Biology 🧬💻 @ Univers
 
 
 2021 Thesis Intern @ [CIBIO- Department of Cellular, Computational and Integrative Biology ](https://www.cibio.unitn.it/1096/rna-regulatory-networks)
+
 B.S. Biomolecular Sciences and Technology 🦠🧫🔬 @ University of Trento.
 
 
