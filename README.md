@@ -12,11 +12,12 @@
 
 I'm currently studying Quantitative and Computational Biology 🧬💻 @ University of Trento.
 
-
-2021 Thesis Intern @ [CIBIO- Department of Cellular, Computational and Integrative Biology ](https://www.cibio.unitn.it/1096/rna-regulatory-networks)
-
+<!--
 B.S. Biomolecular Sciences and Technology 🦠🧫🔬 @ University of Trento.
 
+
+2021 Thesis Intern @ [CIBIO- Department of Cellular, Computational and Integrative Biology ](https://www.cibio.unitn.it/1096/rna-regulatory-networks)
+<!--
 
 [![wakatime](https://wakatime.com/badge/user/a33f68b7-d001-4038-8492-128bf538dfd9.svg)](.)
 
@@ -33,6 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<!--
 
 
